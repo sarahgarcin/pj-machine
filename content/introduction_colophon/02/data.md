@@ -43,7 +43,7 @@ Published by Digital Aesthetics Research Centre, Aarhus University, transmediale
 **Design**: Sarah Garcin  
 **Tools**: etherbox, PJ machine (nodejs)  
 **License**: unless otherwise noted, Free Art License    
-<http://artlibre.org/licence/lal/en/>
+<http://artlibre.org/licence/lal/en/>  
 **Sources**: http://gitlab.constantvzw.org/machineresearch/publication  
 **ISSN (PRINT)**: 2245-7593  
 **ISSN (PDF)**: 2245-7607  

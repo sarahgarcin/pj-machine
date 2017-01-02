@@ -14,11 +14,11 @@ zoom: 1.9500000000000008
 
 ----
 
-xPos: 35.85263157894735
+xPos: 36.052631578947356
 
 ----
 
-yPos: 25.199999999999942
+yPos: 25.79999999999994
 
 ----
 
@@ -39,7 +39,8 @@ cover
 geoff_cox  
 interview_with_etherbox  
 introduction_colophon  
-jara_rocha  
+jara_rocha 
+jara_rocha_2 
 john_hill  
 maja_bak_herrie  
 maya_ganesh  
@@ -47,6 +48,7 @@ nathan_jones_sam_skinner
 nicolas_maleve  
 pj_machine  
 renee_ridgway  
+renee_ridgway_2
 roel_abbing_marino_monti  
 rosa_menkman  
 soren_rasmussen
