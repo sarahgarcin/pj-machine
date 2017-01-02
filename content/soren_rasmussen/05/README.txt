@@ -1,0 +1,1 @@
+Image of a bird’s flight captured and processed in discrete states by a chronophotographical gun. This image is further processed through optical character recognition using Tesseract API.

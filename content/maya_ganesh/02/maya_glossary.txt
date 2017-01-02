@@ -1,0 +1,17 @@
+## Glossary
+*This text has been filtered with the 'Acronymizer', which finds repetitive phrasings in a text and builds a suggested glossary.*  
+
+ADC : A DRIVERLESS CAR   
+ASO : A SET OF   
+DCI : DRIVERLESS CARS IS   
+EID : ETHICS IN DRIVERLESS  
+EMB : ETHICS MAY BE   
+IDC : IN DRIVERLESS CARS  
+OAD : OF A DRIVERLESS  
+PBS : PEOPLE BE SAVED  
+TDC : THE DRIVERLESS CAR  
+TEI : THAT ETHICS IN  
+TMT : TO MAKE THEM  
+TPI : TROLLEY PROBLEM IS  
+TTP : THE TROLLEY PROBLEM  
+

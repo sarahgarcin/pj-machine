@@ -1,0 +1,46 @@
+doctype html
+html
+  head
+    link(rel='stylesheet', href='/css/style.css')
+    title #{title}
+  body
+
+
+    div.content-wrapper
+      div.sidebar
+        div.meta-data
+          p.block-select
+          p.file-select
+        div.page-function
+          div.zoomFunction
+            span.plusButton + 
+            span.zoom-value 100%
+            span.minusButton - 
+          div.gridButton grid
+      div#page-content.page
+        div.middle
+        div(class="page-wrapper" data-part="0")
+          div.header.left
+            h4 #{folder}
+          div.header.right
+            h4 #{folder}
+          div.trait
+
+          div.grid.row
+            - for (var i = 0; i < 30; ++i) {
+              div.grid-el.columns
+            - }
+
+    .js--templates
+      div.content.--js-content-el.small-push-1
+
+    script(src='/socket.io/socket.io.js')
+    script(src='/bower_components/jquery/dist/jquery.min.js')
+    script(src='/bower_components/foundation/js/foundation.min.js')
+    script(src='/bower_components/showdown/dist/showdown.min.js')
+    script(src='/js/jquery.textfill.js')
+    script(src='/settings.js')
+    script(src='/js/plugins.js')
+    script(src='/js/index.js')
+
+

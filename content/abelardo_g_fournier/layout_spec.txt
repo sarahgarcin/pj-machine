@@ -1,0 +1,12 @@
+I send you then the paper itself, the references block, and 3 images in case they fit in the publication.
+
+Also, I made a script, not to rewrite individual papers, but to relate them via feature extraction. I'm attaching you the output of the script (output.txt), that consists of 3 parts:
+- the top five featured words of each paper
+- the measured similarity between each document and the rest of the documents
+- the similarity information expressed in terms of a "Suggested recommendations" box, that is, for a each document, a block of information like this:
+
+"If you enjoyed reading The_Signification_Communication_Question_Some_Initial_Remarks.txt, you might like also:
+-- The_Cultural_Politics_of_Information_and_of_Debt.txt
+-- Testing_Texting_South_a_Political_Fiction.txt"
+
+This information, then, could appear as a block after each paper, or put together in a "common" area such as the index.

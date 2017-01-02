@@ -1,0 +1,48 @@
+// I M P O R T    F O N T 
+@import "../fonts/volkorn/stylesheet.css";
+@import "../fonts/inknut/stylesheet.css";
+@import "settings.scss";
+
+// PAGE
+$widthPage: $page-widthPage;
+$heightPage: $page-heightPage;
+$margintop: $page-margintop;
+$marginleft: $page-marginleft;
+$marginbottom: $page-marginbottom;
+
+$scale : $page-scale;
+
+
+// FONT SIZE
+$h1Size: 16pt;
+$h2Size: 16pt;
+$h3Size: 12pt;
+$h6Size: 80pt;
+$textSize: 7pt;
+
+$lineH: 150%;
+
+// FONT FAMILY
+$titleFont : "inknut", sans-serif;
+$textFont: "inknut", sans-serif;
+
+@mixin titleStyle{
+	font-size: $h1Size;
+	font-family: $titleFont;
+	font-weight: bold;
+}
+
+@mixin textStyle{
+	font-size: $textSize;
+	font-family: $textFont;
+	font-weight: 100;
+}
+
+
+
+
+
+
+
+
+

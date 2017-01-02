@@ -1,0 +1,247 @@
+// I M P O R T
+@import "../bower_components/foundation/scss/normalize.scss";
+@import "../bower_components/foundation/scss/foundation.scss";
+
+
+@import "_variables.scss";
+
+
+html {
+	margin:0;
+}
+
+body,html {
+	height:100%;
+}
+
+body {
+  margin: 0;
+  color: #000;
+  @include textStyle;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: $titleFont, sans-serif;
+  margin-bottom: 0.1cm;
+}
+
+h1{
+  font-size: $h1Size;
+  line-height: $lineH;
+  text-transform:uppercase;
+  margin-bottom: 0.5cm;
+}
+h2{
+  font-size: $h2Size;
+  letter-spacing: -0.15em;
+  margin-bottom: 0.5cm;
+}
+
+h3, h4, h5{font-size: $h3Size;}
+h4{text-align: right; margin-bottom: 0.3cm;}
+h6{
+  position:absolute;
+  // left: $marginleft;
+  font-size: $h6Size;
+  max-width: ($widthPage/2) - ($marginleft*2);
+  line-height:110%;
+}
+
+li{
+  // list-style: none;
+  font-family: $textFont, serif;
+  font-size: $textSize;
+  line-height: $lineH;
+  word-wrap: break-word;
+}
+p{
+  font-family: $textFont, serif;
+  font-size: $textSize;
+  line-height: $lineH;
+  word-wrap: break-word;
+  &:first-child{
+    margin: 0;
+  }
+}
+
+a{color: #000;}
+
+pre{
+  margin-bottom: 0.5cm;
+  box-sizing: content-box;
+  border:0;
+}
+code{
+  background-color: #FFF;
+  border:none;
+}
+
+img{
+  max-width: 100%;
+  margin-bottom: 0.5cm;
+}
+
+.row{
+  max-width: 100%;
+}
+
+.header{
+  position:absolute;
+  top:0.2cm;
+  transform: translateX(-50%);
+  h4{
+    font-family: $textFont;
+    font-size: 6pt;
+  }
+  &.left{
+    left: 25%;
+  }
+  &.right{
+    left: 75%;
+  }
+}
+
+.trait {
+  width: 1.2cm;
+  border-top: 1px solid #000;
+  position:absolute;
+  left: 50%;
+  margin-left: -0.6cm;
+  top:50%;
+  z-index: 900;
+
+}
+
+.sidebar{
+  position:absolute;
+  bottom: 0px;
+  right: 0;
+  background-color: #FFF;
+  z-index: 999;
+
+  width: 190px;
+  border: 0.5px solid #A6A6A6;
+  padding: 10px 10px 20px 15px;
+  text-transform: uppercase;
+  display:none;
+  &.print{
+    display:none;
+  }
+}
+
+.meta-data{
+  p{
+    font-size:12px;
+    color: #5E5B5D;
+    font-family:$titleFont  ;
+    padding: 0 5px;
+    display:inline-block;
+  }
+}
+
+.page-function{
+  .gridButton{
+    font-size:12px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px 15px;
+    width: 80px;
+    border: 0.5px solid #A6A6A6;
+    color: #5E5B5D;
+    cursor: pointer;
+    &.active{
+      background-color: #5E5B5D;
+      color: #FFF;
+    }
+  }
+  .zoomFunction{
+    font-size:12px;
+    color: #5E5B5D;
+    .minusButton, .plusButton{
+      text-align: center;
+      padding: 5px 10px;
+      border: 0.5px solid #A6A6A6;
+      cursor: pointer;
+      &:hover, &:active{
+        background-color: #5E5B5D;
+        color: #FFF;
+      }
+    }
+    .zoom-value{
+      margin: 0 10px;
+    }
+  }
+}
+
+// PAGE GENERATED
+.page{
+  width: $widthPage;
+  height: $heightPage;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-top: 1px solid #000;
+  // border-left: 1px solid #000;
+  margin: 0 0;
+  position: relative;
+  transform: scale($scale);
+  transform-origin: 0 0;
+  &.print{
+    left: -563px;
+  }
+  .page-wrapper{
+    margin: $margintop $marginleft $marginbottom $marginleft;
+    width: $widthPage - ($marginleft * 2);
+    height: $heightPage - ($margintop + $marginbottom);
+    .content{
+      width: ($widthPage - ($marginleft *2))/2.1;
+      // height: $heightPage - ($margintop * 2);
+      padding-right: 0.5cm;
+      // overflow:hidden;
+      position:absolute;
+      &[data-folder="long"], &[data-folder="long2"]{
+        width: 25%;
+      }
+      &[data-folder="short"], &[data-folder="short2"]{
+        width: 15%;
+      }
+    }
+
+  }
+
+  .test{
+    height: $heightPage - ($margintop * 2);
+    width: 100%;
+  }
+
+  .change-font{
+    font-family: $titleFont, sans-serif;
+    font-size: 2em;
+    line-height: 1;
+   }
+
+  .normal-font{
+    font-family: $textFont, serif;
+   }
+}
+
+.grid{
+  height: $heightPage - ($margintop + $marginbottom);
+  width: 100%;
+  border: 1px solid #00AADA;
+  display:none;
+  div{
+    height:100%;
+    width: 3.33%;
+    border-right: 1px solid #DA0097;
+    &:last-child{border:none;}
+  }
+}
+
+.middle{
+  height: $heightPage;
+  width: 1px;
+  border: 1px solid #000;
+  left:49.8%;
+  position:absolute;
+  display:none;
+}
