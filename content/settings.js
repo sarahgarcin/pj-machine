@@ -1,7 +1,7 @@
-var folder = 'cover';
+var folder = 'nathan_jones_sam_skinner';
 
 var settings = {
-	"architecture" : [['01', 'text'],['02', 'text'],['03', 'text'],['pdf', 'pdf']],
+	"architecture" : [['01', 'text'],['01b', 'text'],['01c', 'text'],['02', 'text'],['03', 'text'],['04', 'text'],['05', 'text'],['06', 'text'],['07', 'text'],['08', 'text'],['09', 'text'],['10', 'text'],['11', 'text'],['12', 'text'],['13', 'text'],['pdf', 'pdf']],
 	"folder": folder,
 	"words" :['machine', 'research', 'computer', 'vision', 'network', 'data', 'algorithm', 'learning', 'AEO', 'AMB', 'ANO', 'DSP'],
 

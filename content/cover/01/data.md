@@ -14,15 +14,15 @@ zoom: 1
 
 ----
 
-xPos: 22.399999999999952
+xPos: 33.399999999999935
 
 ----
 
-yPos: 1.7999999999999998
+yPos: 3.400000000000001
 
 ----
 
-wordSpace: 2
+wordSpace: 112
 
 ----
 
@@ -39,7 +39,7 @@ text: # MACHINE RESEARCH
 
 ----
 
-blockSize: 4
+blockSize: 19
 
 ----
 
