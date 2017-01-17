@@ -2,10 +2,8 @@
 
 Roel Roscam Abbing (independent)  
 Christian Ulrik Andersen (Aarhus University)  
-Geoff Cox (Plymouth University/Aarhus University)  
-Daphne Dragona (transmediale)  
-Maya Ganesh (Leuphana University)  
-Kristoffer Gansing (transmediale)  
+Geoff Cox (Plymouth University/Aarhus University)    
+Maya Ganesh (Leuphana University)   
 Abelardo Gil-Fournier (Winchester School of Art, University of Southampton)  
 Maja Bak Herrie (Aarhus University)  
 John Hill (Liverpool John Moores University)  
@@ -22,7 +20,7 @@ Renée Ridgway (Copenhagen Business School/Leuphana University)
 Jara Rocha (Bau Design College of Barcelona)  
 Sam Skinner (Manchester Metropolitan University)  
 Femke Snelting (Constant)  
-Dave Young (Nottingham Trent University)  
+ 
 
 Thanks to Seda Gürses, Antoinette Rouvroy, Silvia Mollicchi, Caspar
-Menkman, Valentina Vuksic.
+Menkman, Valentina Vuksic, Dave Young, Daphne Dragona and Kristoffer Gansing.

@@ -1,4 +1,4 @@
-**Q: But why do you need to be a box, you seem skeptical about packaging? **  
+**Q: But why do you need to be a box, you seem skeptical about packaging?**  
  A: Well you can see things as boxes in different ways. For example myself I am actually three boxes: a wireless access point boxed as TP-link, a small Linux computer boxed as Raspberry Pi and a small network hub, which is just another box... 
 
 **Q: Hm, that seem to get confusing. Maybe we could try another term. What about gadget?**  

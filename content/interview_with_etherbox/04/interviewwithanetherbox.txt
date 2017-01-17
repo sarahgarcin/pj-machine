@@ -1,12 +1,12 @@
 **Q: I hear that your firmware is (in part) closed source?**  
- A: Hey you don't get my price point without keeping a few secrets and making compromises. Free as in Beer doesn't always talk about hidden costs.
-
+ A: Hey you don't get my price point without keeping a few secrets and making compromises. Free as in Beer doesn't always talk about hidden costs.  
+  
 **Q: Are you a scaleable technology?**  
  A: It depends. 
-
+  
 **Q: What do you mean?**  
- A: It depends on the social dynamics around me; they would need to scale too, so I am not sure.
-
+ A: It depends on the social dynamics around me; they would need to scale too, so I am not sure.  
+  
 **Q: So you are not bringing down The Cloud?**  
  A: I don't think so. I guess working locally is a way to redirect energy from The Cloud, to de-invest as a start. I also serve to dismantle the fiction of The Cloud. It's a bad metaphor anyway. 
 

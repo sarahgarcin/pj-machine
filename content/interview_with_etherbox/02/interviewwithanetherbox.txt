@@ -22,12 +22,12 @@
 **Q: What makes an etherbox?**  
  A: Well for one thing, etherpad. It's basically a shared editor where users can write the same text simultaneously. 
 
-**Q: Could another way of collaborative writing work equally well? Like for instance, what do you think of Google docs? Sorry that was a provocation. **  
+**Q: Could another way of collaborative writing work equally well? Like for instance, what do you think of Google docs? Sorry that was a provocation.**  
  A: Ha ha. Well as a matter of fact, etherpad started as a product of ex-Google employees, then got bought by Google, only to be later Open Sourced.
 
 **Q: And Piratepad, is it the same?**  
  A: That's just a public instance of the etherpad software, it is of course not a box like me. But the naming is interesting too, as it demonstrates how other kinds of political imaginaries can be activated. I feel an affinity with pirates. I like their style.   
 
-**Q: Ah, so why don't you call yourself a Piratebox? **  
+**Q: Ah, so why don't you call yourself a Piratebox?**  
  A: Ehrm, no, that's something else again, in fact. There is lately a proliferation of boxes as you might have noticed... 
 

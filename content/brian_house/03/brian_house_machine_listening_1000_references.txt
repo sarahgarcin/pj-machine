@@ -11,6 +11,6 @@ Labelle, Brandon. Background Noise: Perspectives on Sound Art. London: Continuum
 
 Lefebvre, Henri. Rhythmanalysis: Space, Time, and Everyday Life. London: Continuum, 2004.
 
-van den Oord, Aäron, et al., "WaveNet: A Generative Model for Raw Audio," presented at the 9th ISCA Speech Synthesis Workshop, published September 19, 2016, blog post <https://deepmind.com/blog/wavenet-generative-model-raw-audio/> ( Proximus NV → Google Inc. ) accessed September 25, 2016.
+van den Oord, Aäron, et al., "WaveNet: A Generative Model for Raw Audio," presented at the 9th ISCA Speech Synthesis Workshop, published September 19, 2016, blog post https://deepmind.com/blog/wavenet-generative-model-raw-audio/ (Proximus NV → Google Inc.) accessed September 25, 2016.
 
 

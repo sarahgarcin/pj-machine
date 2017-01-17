@@ -1,3 +1,4 @@
-*"etherbox" is the name of a configuration of software and hardware that was in use during the Machine Research workshop. Speaking "in" and "from" the situation, the platform was used to write the Questions and Answers of this interview collectively. Edited November 2016.*  
+## Readme
+“Etherbox” is the name of a configuration of software and hardware that was in use during the Machine Research workshop. Speaking "in" and "from" the situation, the platform was used to write the Questions and Answers of this interview collectively. Edited November 2016.
 
 

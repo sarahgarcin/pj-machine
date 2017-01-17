@@ -1,5 +1,5 @@
 # Untie : solve : dissolve resolutions
-## Rosa Menkam
+## Rosa Menkman
 
 The term ‘resolution’ is a determination of functional settings in the technological domain. While the term is often conflated into a standard numerical quantity or a measure of acutance, such as samples per inch, the term also entails a space of compromise between different actors (objects, materialities and protocols) in dispute over norms (frame rate, number of pixels, etc.). Generally, settings either ossify as requirements and de facto standards, or are notated as standardized norms by organizations such as the International Organization for Standardization (ISO). A resolution - or rather the resolving - of an image thus means more than just a superficial setting of width x height, or frames per second.
 
@@ -14,6 +14,9 @@ Resolution theory is a theory of literacy: literacy of the machines, the people,
 
 Through challenging the actors that are involved in the setting of resolutions, the user can scale actively between increments of hyperopia and myopia. This is why we need to shift our understanding of resolution as the setting of disputable norms, which compromise more  and move actively to the setting of more diverse resolutions. 
 
+## References
+Galloway, Alexander R. The interface effect. Polity, 2012.  
+  
+Gonring, Gabriel Menotti MP. Movie/Cinema: Rearrangements of the Apparatus in Contemporary Movie Circulation. Diss.Goldsmiths, University of London, 2011. p.227.
 
-Galloway, Alexander R. The interface effect. Polity, 2012.
-Gonring, Gabriel Menotti MP. Movie/Cinema: Rearrangements of the Apparatus in Contemporary Movie Circulation. Diss. Goldsmiths, University of London, 2011. p. 227.
+

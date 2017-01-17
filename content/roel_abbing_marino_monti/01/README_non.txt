@@ -21,4 +21,4 @@ annotated_text_file.txt
 
 **Example output :**  
   
-<http://example.com> ( Proximus NV → RIPE Network Coordination Centre → Telia Company AB → MCI Communications Services, Inc. d/b/a Verizon Business )
+http://example.com (Proximus NV → RIPE Network Coordination Centre → Telia Company AB → MCI Communications Services, Inc. d/b/a Verizon Business)
