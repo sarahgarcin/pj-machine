@@ -1,4 +1,4 @@
-path: content/abelardo_g_fournier_2/04
+path: content/abelardo_g_fournier/04
 
 ----
 
@@ -6,7 +6,7 @@ content:
 
 ----
 
-index: 1
+index: 0
 
 ----
 
@@ -14,11 +14,11 @@ zoom: 0.95
 
 ----
 
-xPos: 23.75789473684212
+xPos: 23.35789473684212
 
 ----
 
-yPos: 1
+yPos: 1.2
 
 ----
 

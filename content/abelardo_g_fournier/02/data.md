@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 0.8999999999999999
+zoom: 1
 
 ----
 
-xPos: 30.305263157894707
+xPos: 1.4526315789473736
 
 ----
 
-yPos: 0.20000000000000007
+yPos: 9.599999999999998
 
 ----
 
@@ -30,47 +30,61 @@ nbOfFiles: 1
 
 ----
 
-text: ## References
+text: <pre>
+//// 1 / 3 ////////////////////////////////////////////////////////////////////
 
-Adey, P. et al. (2011) Introduction: Air-target Distance, Reach and the Politics of Verticality. Theory, Culture & Society. 28 (7-8), 173–187.
+FEATURE EXTRACTION: MOST FREQUENT WORDS
 
-Bale, K. (2012) Disposable People: New Slavery in the Global Economy. Berkeley: University of California Press.
+An_Ethnography_of_Error.txt
+-- error(13) human(12) problem(11) driverless(9) car(9) 
 
-Bishop, R. (2011) Project ‘Transparent Earth’ and the Autoscopy of Aerial Targeting The Visual Geopolitics of the Underground. Theory, Culture & Society. 28 (7-8), 270–286.
+Computing_War_Narratives_The_Hamlet_Evaluation_System_in_Vietman.txt
+-- hamlet(22) hes(20) data(16) war(12) vietnam(12) 
 
-Bishop, R. (2015) Smart Dust and Remote Sensing The Political Subject in Autonomous Systems. Cultural Politics.  11 (1), 100–110.
+Elusive_Borders_Aesthetic_Perpectualization_The_Space_Time_of_Metadata.txt
+-- space(21) data(18) cables(15) metadata(14) tor(12) 
 
-Cubitt, S. (2014) The Practice of Light: A Genealogy of Visual Technologies from Prints to Pixels. Cambridge, Massachusetts: MIT Press.
+From_Page_Rank_to_Rankbrain.txt
+-- search(28) google(22) page(17) users(13) algorithms(11) 
 
-Delgado, E. (2013) Imagen y memoria: fondos del archivo fotográfico del Instituto Nacional de Colonización, 1939-1973. Ministerio de Agricultura, Alimentación y Medio Ambiente, Centro de Publicaciones.
+Machine_Listening.txt
+-- human(28) wavenet(22) ernst(18) machine(16) listening(16) 
 
-Dieter, M. (2014) The Virtues of Critical Technical Practice. differences.  25 (1), 216–230.
+Machine_Pedagogies.txt
+-- images(16) human(15) freire(15) oppressor(13) learning(13) 
 
-Gaviria, M. et al. (1978) Extremadura saqueada: recursos naturales y autonomía regional. Barcelona: Ruedo Ibérico.
+Participation_in_Infrastructures.txt
+-- systems(20) electricity(19) demand(13) time(12) resources(11) 
 
-Gil-Fournier, A. (2016) ‘Flattening the Biosphere. The Green Revolution and the Inner Colonisation’, in 2016 London: Speeding and Braking: Navigating Acceleration. Online at academia.edu
+Pattern-Recognition-across-Bodies-and-Machines-by-Anarchival-Means.txt
+-- data(26) recognition(11) digital(11) capture(11) perception(9) 
 
-Harvey, P. (2012) The Topological Quality of Infrastructural Relation: An Ethnographic Approach. Theory, Culture & Society.  29 (4-5), 76–92.
+Relearn_to_Read_Speed_Readers.txt
+-- reading(39) speed(35) reader(13) readers(12) new(12) 
 
-Kaplan, C. (2007) Vectors Journal: Dead Reckoning. Vectors Journal:. 2 (2), . . Available from: http://www.vectorsjournal.org/projects/index.php?project=11&thread=AuthorsStatement ( Proximus NV → Hurricane Electric, Inc. → Los Nettos → University of Southern California ) (Accessed 27 September 2016).
+Resolution_Theory.txt
+-- resolution(66) term(17) word(15) resolutions(15) formal(14) 
 
-Lury, C. et al. (2012) Introduction: The Becoming Topological of Culture. Theory, Culture & Society.  29 (4-5), 3–35.
+Testing_Texting_South_a_Political_Fiction.txt
+-- language(18) south(17) political(17) fictions(13) 2015(11) 
 
-Parikka, J. (2015) A Geology of Media. Minneapolis; London: Univ Of Minnesota Press.
+The_Cultural_Politics_of_Information_and_of_Debt.txt
+-- information(20) debt(19) communication(19) terranova(15) message(14) 
 
-Parks, L. (2009) Signals and oil Satellite footprints and post-communist territories in Central Asia. European Journal of Cultural Studies.  12 (2), 137–156.
+The_Signification_Communication_Question_Some_Initial_Remarks.txt
+-- language(14) communication(14) reality(11) thought(10) medium(10) 
 
-Siegert, B. (2015) Cultural Techniques: Grids, Filters, Doors, and Other Articulations of the Real. 1 edition. New York: Fordham University Press.
+The_Stupid_Network_that_we_Know_and_Love.txt
+-- network(21) ip(15) tcp(13) internet(13) protocol(12) 
 
-Steyerl, H. (2012) e-flux journal: The Wretched of the Screen. Julieta Aranda et al. (eds.). Berlin: Sternberg Press.
+Unmaking_Screens_a_Genealogy_of_the_Mineral_Vision.txt
+-- vision(13) media(11) land(10) earth(10) practices(7) 
+</pre>
 
-Vernadsky, V. I. (1998) The Biosphere. 1998 edition. New York: Copernicus.
-
-*Images taken from the Fototeca digital of the National Geographic Institute of Spain and the Agribotix website.
 
 ----
 
-blockSize: 11
+blockSize: 17
 
 ----
 

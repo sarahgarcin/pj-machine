@@ -1,4 +1,4 @@
-path: content/christian_soren/02
+path: content/christian_ulrik_andersen_ søren_pold/02
 
 ----
 
@@ -71,7 +71,26 @@ daniel howe co**G**nitive
 
 
 
-             **I**f this          tra**N**sform             **T**his                       com**E**             **R**ead as a body. the        body **F**rom the            m**A**ss   stereotypi**C**al and                    rol**E**             **I**s            o**N** to the image        of bo**D**y;                its s**U**bjectivity            i**S**         grea**T**ly        measu**R**ed,calculated wa**Y**s.
+             **I**f this
+          tra**N**sform
+             **T**his
+             
+          com**E**
+             **R**ead as a body. the
+        body **F**rom the
+            m**A**ss
+   stereotypi**C**al and
+          
+          rol**E**
+             **I**s
+            o**N** to the image
+        of bo**D**y;
+        
+        its s**U**bjectivity
+            i**S**
+         grea**T**ly
+        measu**R**ed,
+calculated wa**Y**s.
 
 </pre>
 

@@ -1,4 +1,4 @@
-path: content/introduction_colophon/01b
+path: content/introduction_colophon/03
 
 ----
 
@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 1.7500000000000007
+zoom: 1.5000000000000004
 
 ----
 
-xPos: 21.252631578947334
+xPos: 24.30526315789473
 
 ----
 
-yPos: 18.399999999999967
+yPos: 9.999999999999996
 
 ----
 
@@ -34,10 +34,8 @@ text: ## List of contributors
 
 Roel Roscam Abbing (independent)  
 Christian Ulrik Andersen (Aarhus University)  
-Geoff Cox (Plymouth University/Aarhus University)  
-Daphne Dragona (transmediale)  
-Maya Ganesh (Leuphana University)  
-Kristoffer Gansing (transmediale)  
+Geoff Cox (Plymouth University/Aarhus University)    
+Maya Ganesh (Leuphana University)   
 Abelardo Gil-Fournier (Winchester School of Art, University of Southampton)  
 Maja Bak Herrie (Aarhus University)  
 John Hill (Liverpool John Moores University)  
@@ -54,10 +52,10 @@ Renée Ridgway (Copenhagen Business School/Leuphana University)
 Jara Rocha (Bau Design College of Barcelona)  
 Sam Skinner (Manchester Metropolitan University)  
 Femke Snelting (Constant)  
-Dave Young (Nottingham Trent University)  
+ 
 
 Thanks to Seda Gürses, Antoinette Rouvroy, Silvia Mollicchi, Caspar
-Menkman, Valentina Vuksic.
+Menkman, Valentina Vuksic, Dave Young, Daphne Dragona and Kristoffer Gansing.
 
 ----
 

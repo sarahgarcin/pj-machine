@@ -64,13 +64,13 @@ p{
   }
 }
 
-a{color: #000;}
+a{color: #000; text-decoration:none;}
 
 pre{
   margin-bottom: 0.5cm;
   box-sizing: content-box;
   border:0;
-  text-align: center; 
+  // text-align: center; 
 }
 code{
   background-color: #FFF;

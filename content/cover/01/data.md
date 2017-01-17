@@ -10,19 +10,19 @@ index: 0
 
 ----
 
-zoom: 1
+zoom: 1.8000000000000007
 
 ----
 
-xPos: 33.399999999999935
+xPos: 10.999999999999993
 
 ----
 
-yPos: 3.400000000000001
+yPos: 13.999999999999982
 
 ----
 
-wordSpace: 112
+wordSpace: 0
 
 ----
 
@@ -30,16 +30,11 @@ nbOfFiles: 1
 
 ----
 
-text: # MACHINE RESEARCH 
-### A PEER-REVIEWED NEWSPAPER 
-### VOLUME 6 
-### ISSUE 1 
-### 2017 
-### FREE
+text: ![back](01/cover.jpg)
 
 ----
 
-blockSize: 19
+blockSize: 30
 
 ----
 

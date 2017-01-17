@@ -14,11 +14,11 @@ zoom: 1
 
 ----
 
-xPos: 22.30526315789474
+xPos: 22.50526315789474
 
 ----
 
-yPos: 25.79999999999994
+yPos: 24.399999999999945
 
 ----
 
@@ -43,7 +43,7 @@ Labelle, Brandon. Background Noise: Perspectives on Sound Art. London: Continuum
 
 Lefebvre, Henri. Rhythmanalysis: Space, Time, and Everyday Life. London: Continuum, 2004.
 
-van den Oord, Aäron, et al., "WaveNet: A Generative Model for Raw Audio," presented at the 9th ISCA Speech Synthesis Workshop, published September 19, 2016, blog post <https://deepmind.com/blog/wavenet-generative-model-raw-audio/> ( Proximus NV → Google Inc. ) accessed September 25, 2016.
+van den Oord, Aäron, et al., "WaveNet: A Generative Model for Raw Audio," presented at the 9th ISCA Speech Synthesis Workshop, published September 19, 2016, blog post https://deepmind.com/blog/wavenet-generative-model-raw-audio/ (Proximus NV → Google Inc.) accessed September 25, 2016.
 
 
 

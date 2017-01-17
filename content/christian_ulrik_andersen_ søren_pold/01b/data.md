@@ -1,4 +1,4 @@
-path: content/christian_soren/01b
+path: content/christian_ulrik_andersen_ søren_pold/01b
 
 ----
 

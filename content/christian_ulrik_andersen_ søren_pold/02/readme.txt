@@ -1,4 +1,4 @@
-## README
+## Readme
 
 A mesostic is a poem (or other typography) were a vertical phrase intersects lines of horizontal text. The practice was used by John Cage. These were made by a machine choosing words from the article.
 
