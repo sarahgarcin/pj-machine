@@ -17,4 +17,4 @@ The sounds but listenicsing Waveeth usince fust valabelre by is effedt as theaur
 
 
 
-*Based on the torch-rnn implementation by Justin Johnson: https://github.com/jcjohnson/torch-rnn
+*Based on the torch-rnn implementation by Justin Johnson: https://github.com/jcjohnson/torch-rnn (Proximus NV → Level 3 Communications, Inc. → GitHub, Inc.)

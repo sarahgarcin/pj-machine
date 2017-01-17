@@ -22,7 +22,7 @@
 **Q: Since we are talking about reading and writing ... have you read Matthew Fuller's "Interview with a photocopier"?**  
  A: No. Can you share the url with in me?
 
-**Q: The file is already on your server, but here it is again just in case: https://datacide-magazine.com/interview-with-a-photocopier/** ( Proximus NV → TATA COMMUNICATIONS (AMERICA) INC → Hetzner Online GmbH )  
+**Q: The file is already on your server, but here it is again just in case: https://datacide-magazine.com/interview-with-a-photocopier/** (Proximus NV → TATA COMMUNICATIONS (AMERICA) INC → Hetzner Online GmbH)  
  A: Great. I'll speed read it later.
 
 **Q: What about archives? Do your files remain local?**  

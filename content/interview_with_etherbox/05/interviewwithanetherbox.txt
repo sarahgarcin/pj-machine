@@ -14,8 +14,8 @@
 
 Version of the interview done at Machine Research workshop:   
 http://machineresearch.constantvzw.org/etherdump/interviewwithetherbox.diff.html  
-( Proximus NV → Cogent Communications → Moving Art Studio ASBL )
+(Proximus NV → Cogent Communications → Moving Art Studio ASBL)
 
 etherbox code:  
-http://gitlab.constantvzw.org/aa/etherbox ( Proximus NV → OVH SAS )
+http://gitlab.constantvzw.org/aa/etherbox (Proximus NV → OVH SAS)
 
