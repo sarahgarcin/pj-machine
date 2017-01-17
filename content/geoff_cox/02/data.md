@@ -14,7 +14,7 @@ zoom: 1
 
 ----
 
-xPos: 1.6842105263157863
+xPos: 1.4842105263157863
 
 ----
 
@@ -30,7 +30,7 @@ nbOfFiles: 1
 
 ----
 
-text: # Ways of Machine Seeing[1]
+text: # Ways of Machine Seeing<span class=small-text-execption>[1]</span>
 ## Geoff Cox
 
 You are looking at the front cover of the book _Ways of Seeing_ written by John Berger in 1972. The text is the script of the TV series, and if you’ve seen the programmes, you can almost hear the distinctive pedagogic tone of Berger’s voice as you read his words: “The relation between what we see and what we know is never settled.”[2]  

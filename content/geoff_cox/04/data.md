@@ -6,7 +6,7 @@ content:
 
 ----
 
-index: 1
+index: 0
 
 ----
 
@@ -14,11 +14,11 @@ zoom: 1
 
 ----
 
-xPos: 20.65263157894739
+xPos: 24.852631578947374
 
 ----
 
-yPos: 17.999999999999968
+yPos: 7.000000000000003
 
 ----
 
@@ -31,11 +31,14 @@ nbOfFiles: 1
 ----
 
 text: ![](geoff_cox/04/waysofseeing.jpg.texture.png) 
-
+The _Ways of Seeing_ book cover image <br>
+seen through an optical character <br>
+recognition program. <br>
+Created by SICV
 
 ----
 
-blockSize: 8
+blockSize: 9
 
 ----
 

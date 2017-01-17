@@ -1,7 +1,7 @@
-var folder = 'christian_ulrik_andersen_ søren_pold';
+var folder = 'jara_rocha_2';
 
 var settings = {
-	"architecture" : [['01', 'text'],['01b', 'text'],['02', 'text'],['03', 'text'],['pdf', 'pdf']],
+	"architecture" : [['01', 'text'],['02', 'text'],['pdf', 'pdf']],
 	"folder": folder,
 	"words" :['machine', 'research', 'computer', 'vision', 'network', 'data', 'algorithm', 'learning', 'AEO', 'AMB', 'ANO', 'DSP'],
 

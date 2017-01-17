@@ -10,12 +10,3 @@
 **Q: Do you have any questions for us?**  
  A: Don't make me laugh. 
 
----
-
-Version of the interview done at Machine Research workshop:   
-http://machineresearch.constantvzw.org/etherdump/interviewwithetherbox.diff.html  
-(Proximus NV → Cogent Communications → Moving Art Studio ASBL)
-
-etherbox code:  
-http://gitlab.constantvzw.org/aa/etherbox (Proximus NV → OVH SAS)
-

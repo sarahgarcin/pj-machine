@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 3.5499999999999954
+zoom: 1
 
 ----
 
-xPos: 12.452631578947363
+xPos: 0.8526315789473737
 
 ----
 
-yPos: 44.600000000000094
+yPos: 1
 
 ----
 
@@ -30,12 +30,14 @@ nbOfFiles: 1
 
 ----
 
-text: ![](jara_rocha_2/02/test17.png) 
+text: <div class=background-image>
+<img src=jara_rocha_2/02/image_jara_low1.png>
+</div>
 
 
 ----
 
-blockSize: 8
+blockSize: 30
 
 ----
 

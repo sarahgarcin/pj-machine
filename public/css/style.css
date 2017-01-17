@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -6767,6 +6768,10 @@ h1 {
   text-transform: uppercase;
   margin-bottom: 0.5cm; }
 
+.small-text-execption {
+  text-transform: lowercase;
+  font-size: 7pt; }
+
 h2 {
   font-size: 16pt;
   letter-spacing: -0.15em;
@@ -6786,10 +6791,15 @@ h6 {
   line-height: 110%; }
 
 li {
+  list-style: none;
   font-family: "inknut", sans-serif, serif;
   font-size: 7pt;
   line-height: 150%;
   word-wrap: break-word; }
+  li:before {
+    content: "●";
+    position: absolute;
+    left: 0; }
 
 p {
   font-family: "inknut", sans-serif, serif;
@@ -6815,6 +6825,9 @@ code {
 img {
   max-width: 100%;
   margin-bottom: 0.5cm; }
+
+.background-image {
+  z-index: -1; }
 
 .row {
   max-width: 100%; }

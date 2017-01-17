@@ -14,11 +14,11 @@ zoom: 1
 
 ----
 
-xPos: 22.505263157894735
+xPos: 22.39999999999995
 
 ----
 
-yPos: 15.399999999999977
+yPos: 20.799999999999958
 
 ----
 
@@ -42,7 +42,7 @@ This is why I propose to keep experimenting with the cheapest, the most affordab
 
 ----
 
-blockSize: 9
+blockSize: 11
 
 ----
 

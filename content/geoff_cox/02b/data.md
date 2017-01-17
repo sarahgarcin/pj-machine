@@ -10,19 +10,19 @@ index: 0
 
 ----
 
-zoom: 0.8999999999999999
+zoom: 0.7999999999999998
 
 ----
 
-xPos: 31.76842105263153
+xPos: 31.96842105263153
 
 ----
 
-yPos: 5.551115123125783e-17
+yPos: -1.2
 
 ----
 
-wordSpace: 0
+wordSpace: 4
 
 ----
 
@@ -31,11 +31,11 @@ nbOfFiles: 1
 ----
 
 text: ## Notes
-[1] The title of this paper is taken from a workshop organized by the Cambridge Digital Humanities Network, convened by Anne Alexander, Alan Blackwell, Geoff Cox and Leo Impett, and held at Darwin College, University of Cambridge, 11 July 2016, http://www.digitalhumanities.cam.ac.uk/Methods/waysofmachineseeing. ( Proximus NV → RIPE Network Coordination Centre → Jisc Services Limited )   
-[2] _Ways of Seeing_, ‪Episode 1 (1972), ‬https://www.youtube.com/watch?v=0pDE4VX_9Kk. ( Proximus NV → Belgacom International Carrier Services SA → Google Inc. ) The 1972 BBC four-part television series of 30-minute films was created by writer John Berger and producer Mike Dibb. Berger’s scripts were adapted into a book of the same name, published by Penguin also in 1972. The book consists of seven numbered essays: four using words and images; and three essays using only images. See https://en.wikipedia.org/wiki/Ways_of_Seeing. ( Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Wikimedia Foundation, Inc. )   
-[3] René Magritte, _The Key of Dreams_ (1930), https://courses.washington.edu/hypertxt/cgi-bin/book/wordsinimages/keydreams.jpg. ( Proximus NV → Level 3 Communications, Inc. → University of Washington → University of Washington ) Aside from the work of Magritte, Joseph Kosuth’s _One and Three Chairs_ (1965) comes to mind, that makes a similar point in presenting a chair, a photograph of the chair, and an enlarged dictionary definition of the word “chair”, https://en.wikipedia.org/wiki/One_and_Three_Chairs. ( Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Wikimedia Foundation, Inc. )  
+[1] The title of this paper is taken from a workshop organized by the Cambridge Digital Humanities Network, convened by Anne Alexander, Alan Blackwell, Geoff Cox and Leo Impett, and held at Darwin College, University of Cambridge, 11 July 2016, http://www.digitalhumanities.cam.ac.uk/Methods/waysofmachineseeing (Proximus NV → RIPE Network Coordination Centre → Jisc Services Limited) This essay is also available as part of the Unthinking Photography project, commissioned by The Photographers Gallery, London. See https://www.unthinking.photography/themes/machine-vision/ways-of-machine-seeing  
+[2] *Ways of Seeing*, ‪Episode 1 (1972), ‬<https://www.youtube.com/watch?v=0pDE4VX_9Kk> (Proximus NV → Belgacom International Carrier Services SA → Google Inc.) The 1972 BBC four-part television series of 30-minute films was created by writer John Berger and producer Mike Dibb. Berger’s scripts were adapted into a book of the same name, published by Penguin also in 1972. The book consists of seven numbered essays: four using words and images; and three essays using only images. See https://en.wikipedia.org/wiki/Ways_of_Seeing. (Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Wikimedia Foundation, Inc. )   
+[3] René Magritte, *The Key of Dreams* (1930), https://courses.washington.edu/hypertxt/cgi-bin/book/wordsinimages/keydreams.jpg. ( Proximus NV → Level 3 Communications, Inc. → University of Washington → University of Washington ) Aside from the work of Magritte, Joseph Kosuth’s _One and Three Chairs_ (1965) comes to mind, that makes a similar point in presenting a chair, a photograph of the chair, and an enlarged dictionary definition of the word “chair”, <https://en.wikipedia.org/wiki/One_and_Three_Chairs>. (Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Wikimedia Foundation, Inc. )  
 [4] The first section of the programme/book is acknowledged to be largely based on Benjamin’s essay “The Work of Art in the Age of Mechanical Reproduction” (1936), https://www.marxists.org/reference/subject/philosophy/works/ge/benjamin.htm. ( Proximus NV → TATA COMMUNICATIONS (AMERICA) INC → Hetzner Online GmbH )   
-[5] The idea is that “separation” produces a disunity that is disturbing to the viewer/reader — Brecht’s “alienation-effect” (Verfremdungeffekt) — and that this leads to a potential “return from alienation”. See https://en.wikipedia.org/wiki/Distancing_effect. ( Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Wikimedia Foundation, Inc. )   
+[5] The idea is that “separation” produces a disunity that is disturbing to the viewer/reader — Brecht’s “alienation-effect” (Verfremdungeffekt) — and that this leads to a potential “return from alienation”. See <https://en.wikipedia.org/wiki/Distancing_effect>. (Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Wikimedia Foundation, Inc.)   
 [6] To give a sense of scale and its consequences, Facebook has developed the face-recognition software DeepFace. With over 1.5 billion users that have uploaded more than 250 billion photographs, it is allegedly capable of identifying any person depicted in a given image with 97% accuracy. See https://research.facebook.com/publications/deepface-closing-the-gap-to-human-level-performance-in-face-verification/. ( Proximus NV → Facebook, Inc. )  
 [7] Antoine Allen “The ‘three black teenagers’ search shows it is society, not Google, that is racist”, _The Guardian_ (10 June 2016), https://www.theguardian.com/commentisfree/2016/jun/10/three-black-teenagers-google-racist-tweet.( Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Fastly )  
 [8] Adrian Mackenzie, “The Production of Prediction: What Does Machine Learning Want?,” _European Journal of Cultural Studies_, 18, 4–5 (2015): 431.  

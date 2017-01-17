@@ -18,7 +18,7 @@ xPos: 1.4
 
 ----
 
-yPos: 1.9999999999999998
+yPos: 1.7999999999999998
 
 ----
 
@@ -30,7 +30,8 @@ nbOfFiles: 1
 
 ----
 
-text: *"etherbox" is the name of a configuration of software and hardware that was in use during the Machine Research workshop. Speaking "in" and "from" the situation, the platform was used to write the Questions and Answers of this interview collectively. Edited November 2016.*  
+text: ## Readme
+“Etherbox” is the name of a configuration of software and hardware that was in use during the Machine Research workshop. Speaking "in" and "from" the situation, the platform was used to write the Questions and Answers of this interview collectively. Edited November 2016.
 
 
 

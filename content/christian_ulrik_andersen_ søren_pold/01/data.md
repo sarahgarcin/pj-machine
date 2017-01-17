@@ -31,7 +31,7 @@ nbOfFiles: 1
 ----
 
 text: # MACHINE NETWORK READING
-## Christian Soren
+## Christian Ulrik Andersen & Søren Pold
 
 Text production has always been a central part of the development of the World Wide Web. Hypertext has become a complex conglomerate of references and citations that are spun together by a machinery of reading and writing. A central factor in the text machinery is Google. The scale and variety of Google’s activities signify how a control of production, distribution and consumption of text has become a new culture industry. 
 

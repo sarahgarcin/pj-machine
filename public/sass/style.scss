@@ -31,6 +31,12 @@ h1{
   text-transform:uppercase;
   margin-bottom: 0.5cm;
 }
+
+.small-text-execption{
+  text-transform:lowercase;
+  font-size: $textSize;
+}
+
 h2{
   font-size: $h2Size;
   letter-spacing: -0.15em;
@@ -48,11 +54,16 @@ h6{
 }
 
 li{
-  // list-style: none;
+  list-style: none;
   font-family: $textFont, serif;
   font-size: $textSize;
   line-height: $lineH;
   word-wrap: break-word;
+  &:before{
+    content:"●";
+    position:absolute;
+    left: 0;
+  }
 }
 p{
   font-family: $textFont, serif;
@@ -70,6 +81,7 @@ pre{
   margin-bottom: 0.5cm;
   box-sizing: content-box;
   border:0;
+  // opacity:0.6;
   // text-align: center; 
 }
 code{
@@ -80,6 +92,10 @@ code{
 img{
   max-width: 100%;
   margin-bottom: 0.5cm;
+}
+
+.background-image{
+  z-index:-1;
 }
 
 .row{

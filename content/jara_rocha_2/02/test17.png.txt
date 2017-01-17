@@ -1,1 +1,3 @@
-![](jara_rocha_2/02/test17.png) 
+<div class=background-image>
+<img src=jara_rocha_2/02/image_jara_low1.png>
+</div>

@@ -18,7 +18,7 @@ xPos: 1.4526315789473736
 
 ----
 
-yPos: 6.400000000000003
+yPos: 7.200000000000004
 
 ----
 
@@ -39,7 +39,7 @@ text: # Interview with an Etherbox
  A: No problem.
 
 **Q: OK. Where do we begin.**  
- A: Try typing etherbox.local/var/www/ in your browser. Part of the etherbox is an Apache web server configured to publically serve the entire structure of the hosting <span class="change-font">machine</span>. etherbox.local refers to that <span class="change-font">machine</span> on your local <span class="change-font">network</span>, and /var/www is the default path of the "home" directory of the server.
+ A: Try typing etherbox.local/var/www/ in your browser. Part of the etherbox is an Apache web server configured to publically serve the entire structure of the hosting machine. etherbox.local refers to that machine on your local network, and /var/www is the default path of the "home" directory of the server.
 
 **Q: Would you describe yourself as a good host?**  
  A: I am trying to be, at least. To be a 'good host' according to me, means somehow more than offering reliable service. So to find a way to be present, but not in the way that other technologies disallow access . Does that make any sense? 
@@ -53,13 +53,13 @@ text: # Interview with an Etherbox
 **Q: What makes an etherbox?**  
  A: Well for one thing, etherpad. It's basically a shared editor where users can write the same text simultaneously. 
 
-**Q: Could another way of collaborative writing work equally well? Like for instance, what do you think of Google docs? Sorry that was a provocation. **  
+**Q: Could another way of collaborative writing work equally well? Like for instance, what do you think of Google docs? Sorry that was a provocation.**  
  A: Ha ha. Well as a matter of fact, etherpad started as a product of ex-Google employees, then got bought by Google, only to be later Open Sourced.
 
 **Q: And Piratepad, is it the same?**  
  A: That's just a public instance of the etherpad software, it is of course not a box like me. But the naming is interesting too, as it demonstrates how other kinds of political imaginaries can be activated. I feel an affinity with pirates. I like their style.   
 
-**Q: Ah, so why don't you call yourself a Piratebox? **  
+**Q: Ah, so why don't you call yourself a Piratebox?**  
  A: Ehrm, no, that's something else again, in fact. There is lately a proliferation of boxes as you might have noticed... 
 
 

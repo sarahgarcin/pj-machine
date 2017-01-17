@@ -14,11 +14,11 @@ zoom: 1
 
 ----
 
-xPos: 32.15789473684209
+xPos: 33.55789473684211
 
 ----
 
-yPos: 15.199999999999978
+yPos: 5.200000000000001
 
 ----
 
@@ -40,7 +40,7 @@ Testing and texting of South as a political fiction implies affecting, attending
 
 ----
 
-blockSize: 9
+blockSize: 7
 
 ----
 

@@ -1,3 +1,5 @@
 ![](geoff_cox/04/waysofseeing.jpg.texture.png) 
-The _Ways of Seeing_ book cover image seen through an optical
-character recognition program. Created by SICV
+The _Ways of Seeing_ book cover image <br>
+seen through an optical character <br>
+recognition program. <br>
+Created by SICV

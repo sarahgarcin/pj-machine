@@ -14,7 +14,7 @@ zoom: 1
 
 ----
 
-xPos: 11.252631578947367
+xPos: 22.39999999999995
 
 ----
 
@@ -30,7 +30,7 @@ nbOfFiles: 1
 
 ----
 
-text: # testing texting South: a political fiction
+text: # testing texting South: <br> a political fiction
 ## Jara Rocha
 
 ### Terms and Conditions 
@@ -42,7 +42,7 @@ Politics magnetizes around the conditions of possibilities. A politics of the po
 
 ----
 
-blockSize: 18
+blockSize: 11
 
 ----
 

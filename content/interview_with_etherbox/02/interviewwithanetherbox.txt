@@ -1,5 +1,4 @@
 # Interview with an Etherbox
-## An Mertens, Michael Murtaugh & Femke Snelting  
 
 **Q: Before any conversation can begin, we should establish a mutual language. What language, should I address you in?**  
  A: How do you mean? I support utf-8.

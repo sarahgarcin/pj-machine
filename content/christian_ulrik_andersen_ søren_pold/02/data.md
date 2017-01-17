@@ -30,7 +30,7 @@ nbOfFiles: 1
 
 ----
 
-text: ## README
+text: ## Readme
 
 A mesostic is a poem (or other typography) were a vertical phrase intersects lines of horizontal text. The practice was used by John Cage. These were made by a machine choosing words from the article.
 
@@ -71,26 +71,7 @@ daniel howe co**G**nitive
 
 
 
-             **I**f this
-          tra**N**sform
-             **T**his
-             
-          com**E**
-             **R**ead as a body. the
-        body **F**rom the
-            m**A**ss
-   stereotypi**C**al and
-          
-          rol**E**
-             **I**s
-            o**N** to the image
-        of bo**D**y;
-        
-        its s**U**bjectivity
-            i**S**
-         grea**T**ly
-        measu**R**ed,
-calculated wa**Y**s.
+             **I**f this          tra**N**sform             **T**his                       com**E**             **R**ead as a body. the        body **F**rom the            m**A**ss   stereotypi**C**al and                    rol**E**             **I**s            o**N** to the image        of bo**D**y;                its s**U**bjectivity            i**S**         grea**T**ly        measu**R**ed,calculated wa**Y**s.
 
 </pre>
 
