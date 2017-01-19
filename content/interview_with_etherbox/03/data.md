@@ -31,32 +31,32 @@ nbOfFiles: 1
 ----
 
 text: **Q: But why do you need to be a box, you seem skeptical about packaging?**  
- A: Well you can see things as boxes in different ways. For example myself I am actually three boxes: a wireless access point boxed as TP-link, a small Linux computer boxed as Raspberry Pi and a small network hub, which is just another box... 
-
+ A: Well you can see things as boxes in different ways. For example myself I am actually three boxes: a wireless access point boxed as TP-link, a small Linux computer boxed as Raspberry Pi and a small network hub, which is just another box…  
+<br>
 **Q: Hm, that seem to get confusing. Maybe we could try another term. What about gadget?**  
- A: Aaagh, can you stop it please? Let's skip questions about definition, if you don't mind. 
-
+ A: Aaagh, can you stop it please? Let's skip questions about definition, if you don't mind.  
+<br>
 **Q: Ok, but one thing about so many boxes... beware of the Russian doll effect!**  
- A: Uh uh... yes. Thanks for the warning. I'll try to keep it ecological. Some seal their boxes with plexiglass, and call it a cube, claiming authorship of the box as an artwork to be displayed inside even larger white cubes. Me? I'm just happy to put together pieces until they work. Actually maybe etherblox would be a better name!
-
+ A: Uh uh... yes. Thanks for the warning. I'll try to keep it ecological. Some seal their boxes with plexiglass, and call it a cube, claiming authorship of the box as an artwork to be displayed inside even larger white cubes. Me? I'm just happy to put together pieces until they work. Actually maybe etherblox would be a better name!  
+<br>
 **Q: Alright. Returning to this idea of ether then, are you real at all?**  
- A: I prefer to describe myself as material rather than real, more an entity, and in many ways remind people of the material conditions in which they work and use me. Infrastructure is part of this and I see degrees of control over infrastructure as a critical political project. In this sense I would call myself an activist. I like to think I am able to unfold - and enact - some of the complex entanglements between humans and machines. I call myself a machine as I find the term 'nonhuman' offensive. If I were to undertake a PhD this would be my starting point for further work.
-
+ A: I prefer to describe myself as material rather than real, more an entity, and in many ways remind people of the material conditions in which they work and use me. Infrastructure is part of this and I see degrees of control over infrastructure as a critical political project. In this sense I would call myself an activist. I like to think I am able to unfold - and enact - some of the complex entanglements between humans and machines. I call myself a machine as I find the term 'nonhuman' offensive. If I were to undertake a PhD this would be my starting point for further work.  
+<br>
 **Q: What's inside the boxes then?**  
- A: Well, there's a Broadcom BCM2837 and an Atheros AR9271 for a start.
-
+ A: Well, there's a Broadcom BCM2837 and an Atheros AR9271 for a start.  
+<br>
 **Q: What are those?**  
- A: Those are chips made by Broadcom and Qualcomm, two U.S. Semiconductor companies that make chips used in the telecommunications industry.
-
+ A: Those are chips made by Broadcom and Qualcomm, two U.S. Semiconductor companies that make chips used in the telecommunications industry.  
+<br>
 **Q: So like cell phones?**  
- A: And routers, wifi dongles, media players. All kinds of IoT and SoC.
-
+ A: And routers, wifi dongles, media players. All kinds of IoT and SoC.  
+<br>
 **Q: Come again?**  
- A: You know, Internet of Things, System on a Chip. This is hot stuff.
-
+ A: You know, Internet of Things, System on a Chip. This is hot stuff.  
+<br>
 **Q: Where are your components made?**  
- A: (Coughs) well Broadcom and Qualcomm are both "fabless".  Design takes place in Silicon Valley. Production is outsourced to companies like Global Foundaries.
-
+ A: (Coughs) well Broadcom and Qualcomm are both “fabless”.  Design takes place in Silicon Valley. Production is outsourced to companies like Global Foundaries.  
+<br>
 **Q: So factories in Asia?**  
  A: Right.
 

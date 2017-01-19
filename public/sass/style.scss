@@ -94,17 +94,13 @@ img{
   margin-bottom: 0.5cm;
 }
 
-.background-image{
-  z-index:-1;
-}
-
 .row{
   max-width: 100%;
 }
 
 .header{
   position:absolute;
-  top:0.2cm;
+  top:0.7cm;
   transform: translateX(-50%);
   h4{
     font-family: $textFont;

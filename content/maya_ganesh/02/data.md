@@ -31,7 +31,7 @@ nbOfFiles: 1
 ----
 
 text: ## Glossary
-*This text has been filtered with the 'Acronymizer', which finds repetitive phrasings in a text and builds a suggested glossary.*  
+This text has been filtered with <br> the “Acronymizer”, which finds <br>repetitive phrasings in a text <br>and builds a suggested glossary. 
 
 ADC : A DRIVERLESS CAR   
 ASO : A SET OF   

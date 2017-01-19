@@ -1,7 +1,7 @@
-var folder = 'jara_rocha_2';
+var folder = 'introduction_colophon';
 
 var settings = {
-	"architecture" : [['01', 'text'],['02', 'text'],['pdf', 'pdf']],
+	"architecture" : [['01', 'text'],['02', 'text'],['03', 'text'],['04', 'text'],['pdf', 'pdf']],
 	"folder": folder,
 	"words" :['machine', 'research', 'computer', 'vision', 'network', 'data', 'algorithm', 'learning', 'AEO', 'AMB', 'ANO', 'DSP'],
 

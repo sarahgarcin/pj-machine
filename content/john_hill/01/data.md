@@ -30,7 +30,7 @@ nbOfFiles: 1
 
 ----
 
-text: # Don’t just sit there shouting at television, get up and change the channel
+text: # Don’t just sit there shouting <br> at television, <br> get up and change <br> the channel
 ## John Hill
 
 In the end of  first episode of John Berger’s 1972 television series Ways of Seeing, he closes with the request that viewers consider what he has shown them – an argument that through reproduction, images have become a form of information – but to “do so sceptically”. He tells the viewer to be wary of one-directional broadcast media, and calls for wider access to television so that the viewer can speak back. In this short monologue can be seen three ideas of what communication is and can be: dialogue, broadcast and network. This essay will discuss these different constructions and go on to ask how debt, and the subjectivities it produces, might be structured in a similar way.

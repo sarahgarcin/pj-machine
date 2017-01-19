@@ -1,4 +1,4 @@
-path: content/pj_machine/02
+path: content/sarah_garcin/02
 
 ----
 
@@ -14,11 +14,11 @@ zoom: 2.000000000000001
 
 ----
 
-xPos: 29.452631578947308
+xPos: 26.45263157894732
 
 ----
 
-yPos: 16.99999999999997
+yPos: 34.39999999999995
 
 ----
 
@@ -30,7 +30,8 @@ nbOfFiles: 1
 
 ----
 
-text: **Blue buttons** -> change the content and select the block you want to act on   
+text: **Blue buttons** -> change the content and select  
+the block you want to act on  
 **Red buttons** -> Zoom In / Zoom out   
 **Left white button** -> Change the block width  
 **Yellow buttons** -> Move the block  

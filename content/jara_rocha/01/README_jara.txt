@@ -3,7 +3,7 @@
 ### bag of files
 - A text titled “testing texting South: a political fiction”, operating as a general approach to an incipient research project.
 - A text titled “Rendering the affront: the urgency for Euraca assemblages”, operating as an element for situatedness.
-- A graphic visualization generated with Graphviz Software based on DOT language, operating as an unfolding machine for a part of the arguments in 1.
+- A graphic visualization generated <br> with Graphviz Software based on DOT language, operating as an unfolding machine for a part of the arguments in 1.
 
 ### operating instructions
 - linear text items must be read as culturally dictated: on an ordered and reflective manner.
@@ -12,7 +12,7 @@
 ### known bugs
 - notion of ‘cheapness’ is in current need of scrutiny as used in the published version.
 - diagrammatic potentials are not fully explored while in use of the Graphviz tool.
-- an academically plausible and perhaps politically preferable plurification of the notion of South to "the Global Souths" must be studied in detail.
+- an academically plausible and perhaps politically preferable plurification of the notion of South to “the Global Souths” must be studied in detail.
 - bibliographic practice is and must be taken as an epistemic one. In this bag of files it is not operative as such, but this is planned to experience modifications in following versions.
 
 ### changelog

@@ -1,4 +1,5 @@
-**Blue buttons** -> change the content and select the block you want to act on   
+**Blue buttons** -> change the content and select  
+the block you want to act on  
 **Red buttons** -> Zoom In / Zoom out   
 **Left white button** -> Change the block width  
 **Yellow buttons** -> Move the block  

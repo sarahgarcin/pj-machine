@@ -6,5 +6,5 @@ To answer these questions they have only one choice: to engage in a dialog where
 <br><br><br><br> 
 
 ## Notes
-[1]: See Freire's insistence in addressing this question as a political problem rather than an ontological one in his discussion with Seymour Papert: http://www.papert.org/articles/freire/freirePart2.html (Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Amazon.com, Inc. → Amazon.com, Inc.)
+[1]: See Freire's insistence in addressing this question as a political problem rather than an ontological one in his discussion with Seymour Papert: http://www.papert.org/articles/freire/freirePart2.html (Proximus NV → RIPE Network Coordination Centre → Telia Company AB → Amazon.com, Inc. → Amazon.com, Inc.)  
 [2]: See Fei Fei Li's Ted Talk How we teach computers to see, https://www.youtube.com/watch?v=40riCqvRoMs (Proximus NV → Google Inc.)

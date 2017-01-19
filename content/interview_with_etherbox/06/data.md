@@ -30,8 +30,8 @@ nbOfFiles: 1
 
 ----
 
-text: **Version of the interview done at Machine Research workshop :**  http://machineresearch.constantvzw.org/etherdump/interviewwithetherbox.diff.html
-(Proximus NV → Cogent Communications → Moving Art Studio ASBL)  
+text: **Version of the interview done at Machine Research workshop :**  http://machineresearch.constantvzw.org/etherdump/interviewwithetherbox<br>.diff.html
+(Proximus NV → Cogent Communications → Moving <br>Art Studio ASBL)  
 <br>
 **etherbox code :** http://gitlab.constantvzw.org/aa/<br>etherbox (Proximus NV → OVH SAS)
 

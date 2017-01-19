@@ -41,7 +41,7 @@ But to ask whether machines can see or not is the wrong question to ask, rather 
 
 ----
 
-blockSize: 8
+blockSize: 7
 
 ----
 

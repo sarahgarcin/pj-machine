@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 0.8999999999999999
+zoom: 1
 
 ----
 
-xPos: 30.305263157894707
+xPos: 30.705263157894706
 
 ----
 
-yPos: 0.4000000000000001
+yPos: 1.7999999999999998
 
 ----
 
@@ -52,11 +52,11 @@ Gil-Fournier, A. (2016) ‘Flattening the Biosphere. The Green Revolution and th
 
 Harvey, P. (2012) The Topological Quality of Infrastructural Relation: An Ethnographic Approach. Theory, Culture & Society.  29 (4-5), 76–92.
 
-Kaplan, C. (2007) Vectors Journal: Dead Reckoning. Vectors Journal:. 2 (2), . . Available from: http://www.vectorsjournal.org/projects/index.php?project=11&thread=AuthorsStatement ( Proximus NV → Hurricane Electric, Inc. → Los Nettos → University of Southern California ) (Accessed 27 September 2016).
+Kaplan, C. (2007) Vectors Journal: Dead Reckoning. Vectors Journal:. 2 (2), . . Available from: http://www.vectorsjournal.org/projects/index.php?project=11&thread=AuthorsStatement ( Proximus NV → Hurricane Electric, Inc. → Los Nettos → University of Southern California ) <br> (Accessed 27 September 2016).
 
 Lury, C. et al. (2012) Introduction: The Becoming Topological of Culture. Theory, Culture & Society.  29 (4-5), 3–35.
 
-Parikka, J. (2015) A Geology of Media. Minneapolis; London: Univ Of Minnesota Press.
+Parikka, J. (2015) A Geology of Media. Minneapolis; London: Univ Of <br> Minnesota Press.
 
 Parks, L. (2009) Signals and oil Satellite footprints and post-communist territories in Central Asia. European Journal of Cultural Studies.  12 (2), 137–156.
 
@@ -70,7 +70,7 @@ Vernadsky, V. I. (1998) The Biosphere. 1998 edition. New York: Copernicus.
 
 ----
 
-blockSize: 11
+blockSize: 10
 
 ----
 

@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 1.8000000000000007
+zoom: 1
 
 ----
 
-xPos: 10.999999999999993
+xPos: -1.200000000000001
 
 ----
 
-yPos: 13.999999999999982
+yPos: 2.3999999999999986
 
 ----
 
@@ -30,11 +30,11 @@ nbOfFiles: 1
 
 ----
 
-text: ![back](01/cover.jpg)
+text: ![back](01/cover-trame3.png)
 
 ----
 
-blockSize: 30
+blockSize: 50
 
 ----
 

@@ -1,4 +1,4 @@
-path: content/pj_machine/03
+path: content/sarah_garcin/03
 
 ----
 
@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 1.9000000000000008
+zoom: 1
 
 ----
 
-xPos: 29.10526315789471
+xPos: 1.4
 
 ----
 
-yPos: 33.59999999999994
+yPos: 18.599999999999966
 
 ----
 
@@ -30,11 +30,11 @@ nbOfFiles: 1
 
 ----
 
-text: ![](pj_machine/03/03.jpg)
+text: ![](03/03.jpg)
 
 ----
 
-blockSize: 8
+blockSize: 15
 
 ----
 

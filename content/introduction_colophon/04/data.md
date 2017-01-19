@@ -10,15 +10,15 @@ index: 0
 
 ----
 
-zoom: 0.95
+zoom: 1
 
 ----
 
-xPos: 34.757894736842125
+xPos: 34.95789473684213
 
 ----
 
-yPos: 19.199999999999964
+yPos: 18.999999999999964
 
 ----
 
@@ -40,11 +40,10 @@ Edited by all authors
 Published by Digital Aesthetics Research Centre, Aarhus University, transmediale, and Constant Association for Art & Media  
 
 
-**Design**: Sarah Garcin & Angeline Ostinelli  
+**Design**: Sarah Garcin & <br> Angeline Ostinelli  
 **Tools**: etherbox, PJ machine (nodejs)  
-**License**: unless otherwise noted, Free Art License    
-<http://artlibre.org/licence/lal/en/> (Proximus NV → Hurricane Electric, Inc. → GANDI SAS)  
-**Sources**: http://gitlab.constantvzw.org/<br>machineresearch/publication (Proximus NV → OVH SAS) 
+**License**: unless otherwise noted, <br> Free Art License http://artlibre.org/licence/lal/en/ (Proximus NV → Hurricane Electric, Inc. → GANDI SAS)  
+**Sources**: http://gitlab.constantvzw.org/<br>machineresearch/publication <br> (Proximus NV → OVH SAS) 
   
 **ISSN (PRINT)**: 2245-7593  
 **ISSN (PDF)**: 2245-7607  

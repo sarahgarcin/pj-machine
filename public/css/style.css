@@ -6764,7 +6764,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 16pt;
-  line-height: 150%;
+  line-height: 1.6;
   text-transform: uppercase;
   margin-bottom: 0.5cm; }
 
@@ -6794,7 +6794,7 @@ li {
   list-style: none;
   font-family: "inknut", sans-serif, serif;
   font-size: 7pt;
-  line-height: 150%;
+  line-height: 1.6;
   word-wrap: break-word; }
   li:before {
     content: "●";
@@ -6804,7 +6804,7 @@ li {
 p {
   font-family: "inknut", sans-serif, serif;
   font-size: 7pt;
-  line-height: 150%;
+  line-height: 1.6;
   word-wrap: break-word; }
   p:first-child {
     margin: 0; }
@@ -6826,15 +6826,12 @@ img {
   max-width: 100%;
   margin-bottom: 0.5cm; }
 
-.background-image {
-  z-index: -1; }
-
 .row {
   max-width: 100%; }
 
 .header {
   position: absolute;
-  top: 0.2cm;
+  top: 0.7cm;
   transform: translateX(-50%); }
   .header h4 {
     font-family: "inknut", sans-serif;

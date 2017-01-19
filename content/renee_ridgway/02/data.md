@@ -6,19 +6,19 @@ content:
 
 ----
 
-index: 1
+index: 0
 
 ----
 
-zoom: 1
+zoom: 0.8999999999999999
 
 ----
 
-xPos: 16.85263157894735
+xPos: 9.252631578947376
 
 ----
 
-yPos: 3.600000000000001
+yPos: 0.20000000000000007
 
 ----
 
@@ -30,7 +30,9 @@ nbOfFiles: 1
 
 ----
 
-text: Page rank to heighten page concept page social station receive information technology basis in scientific citation index a form academic hierarchy hour angle now be transplant as a conceptual paradigm way detect information information be prioritize u.   
+text: # From Page Rank <br>to RankBrain
+## The Synonymizer (b)
+Page rank to heighten page concept page social station receive information technology basis in scientific citation index a form academic hierarchy hour angle now be transplant as a conceptual paradigm way detect information information be prioritize u.   
 Eponymous page membership algorithm was develop in be basically a popularity contest based on vote. 
 Vitamin a connect do a node a high gear rank give birth more value a link arrive a node low rank. 
 Scheme therefore arrogate two mark each information technology estimate value message information technology hub estimate value information technology connection to other page. 
@@ -79,7 +81,7 @@ Wonder then be to extent be there human adaptation to algorithm in trickle or mu
 
 ----
 
-blockSize: 12
+blockSize: 11
 
 ----
 

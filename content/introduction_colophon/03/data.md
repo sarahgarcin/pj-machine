@@ -18,7 +18,7 @@ xPos: 24.30526315789473
 
 ----
 
-yPos: 9.999999999999996
+yPos: 10.199999999999996
 
 ----
 
@@ -48,13 +48,13 @@ Martino Morandi (independent)
 Michael Murtaugh (Constant)  
 Søren Pold (Aarhus University)  
 Søren Rasmussen (Aarhus University)  
-Renée Ridgway (Copenhagen Business School/Leuphana University)  
+Renée Ridgway (Copenhagen Business <br> School/Leuphana University)  
 Jara Rocha (Bau Design College of Barcelona)  
 Sam Skinner (Manchester Metropolitan University)  
 Femke Snelting (Constant)  
  
 
-Thanks to Seda Gürses, Antoinette Rouvroy, Silvia Mollicchi, Caspar
+Thanks to Seda Gürses, Antoinette Rouvroy, <br> Silvia Mollicchi, Caspar
 Menkman, Valentina Vuksic, Dave Young, Daphne Dragona and Kristoffer Gansing.
 
 ----

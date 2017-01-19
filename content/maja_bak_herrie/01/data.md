@@ -6,7 +6,7 @@ content:
 
 ----
 
-index: 1
+index: 0
 
 ----
 
@@ -14,7 +14,7 @@ zoom: 1
 
 ----
 
-xPos: 1.4
+xPos: 9.799999999999997
 
 ----
 
@@ -38,7 +38,7 @@ Whether portrayed as borders, boundaries, or frontiers, it is often by reference
 Approaching this paradoxical relationship between the different meanings of borders, I propose the notion of gravity as Levi Bryant uses it. Through an analogy to Einstein’s theory of relativity, Bryant suggests the notion of gravity to denote how semiotic and material entities influence the becoming and movement of subjects and collectives in time and space (Bryant 10). I use these thoughts to delve into the borders of the digital, as I will investigate the shared space between physical and digital borders. The objects of the analysis are two artworks that in two very different ways approach the physicality of borders.
 
 
-**Constituting a space-time of the information flow**
+### Constituting a space-time <br> of the information flow
 
 Nina Canell’s subterranean cable project is the first example of an artistic practice investigating the physicality of digital borders. Included in this project is the series *Mid-Sentence* and *Shedding Sheaths*, both from 2015. Canell’s practice takes its basis in subterranean cables of different sorts: Fiber-optic cables used for long distance telecommunication or for providing high-speed data connection between different locations, electricity and communication cables, as well as a variety of sheathings, designed for applications, e.g. in power lines. The works allow the viewer to perceive normally imperceptible dimensions of reality, as the aesthetic disruption exposes the hidden media of energy flows. 
 
@@ -46,7 +46,7 @@ In continuation of the subterranean cables series, Canell has transformed her we
 
 ----
 
-blockSize: 13
+blockSize: 9
 
 ----
 

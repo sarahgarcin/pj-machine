@@ -6,7 +6,7 @@ content:
 
 ----
 
-index: 1
+index: 0
 
 ----
 
@@ -48,7 +48,7 @@ have also sought to open the festival up to emerging academic and/or
 practice-oriented researchers. The outcomes have, as an experiment in new
 forms of scholarly publication, been presented in a series of
 peer-reviewed newspapers, as well as in an open access online academic
-journal, APRJA (A Peer-reviewed Journal About_). This newspaper presents
+journal, APRJA (A Peer-reviewed Journal About). This newspaper presents
 the latest outcomes of a workshop organised in partnership with Constant
 Association for Art & Media.  
 <br>

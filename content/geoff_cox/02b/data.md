@@ -22,7 +22,7 @@ yPos: -1.2
 
 ----
 
-wordSpace: 4
+wordSpace: 0
 
 ----
 

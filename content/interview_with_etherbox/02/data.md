@@ -30,7 +30,7 @@ nbOfFiles: 1
 
 ----
 
-text: # Interview with an Etherbox
+text: # Interview <br> with an Etherbox
 
 **Q: Before any conversation can begin, we should establish a mutual language. What language, should I address you in?**  
  A: How do you mean? I support utf-8.
@@ -39,16 +39,16 @@ text: # Interview with an Etherbox
  A: No problem.
 
 **Q: OK. Where do we begin.**  
- A: Try typing etherbox.local/var/www/ in your browser. Part of the etherbox is an Apache web server configured to publically serve the entire structure of the hosting machine. etherbox.local refers to that machine on your local network, and /var/www is the default path of the "home" directory of the server.
+ A: Try typing etherbox.local/var/www/ in your browser. Part of the etherbox is an Apache web server configured to publically serve the entire structure of the hosting machine. etherbox.local refers to that machine on your local network, and /var/www is the default path of the “home” directory of the server.
 
 **Q: Would you describe yourself as a good host?**  
- A: I am trying to be, at least. To be a 'good host' according to me, means somehow more than offering reliable service. So to find a way to be present, but not in the way that other technologies disallow access . Does that make any sense? 
+ A: I am trying to be, at least. To be a “good host” according to me, means somehow more than offering reliable service. So to find a way to be present, but not in the way that other technologies disallow access . Does that make any sense? 
 
 **Q: Sort of, but are you not just part of the more general trend of the shift from software to services?**  
  A: I try to be both.
 
 **Q: Right. So who is your favourite peer?**  
- A: I think of myself as ... collaborator agnostic, but now I look around me, I am not so sure that is true. 
+ A: I think of myself as… collaborator agnostic, but now I look around me, I am not so sure that is true. 
 
 **Q: What makes an etherbox?**  
  A: Well for one thing, etherpad. It's basically a shared editor where users can write the same text simultaneously. 
