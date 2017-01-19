@@ -50,7 +50,7 @@ Søren Pold (Aarhus University)
 Søren Rasmussen (Aarhus University)  
 Renée Ridgway (Copenhagen Business <br> School/Leuphana University)  
 Jara Rocha (Bau Design College of Barcelona)  
-Sam Skinner (Manchester Metropolitan University)  
+Sam Skinner (FACT & Manchester Metropolitan University) 
 Femke Snelting (Constant)  
  
 

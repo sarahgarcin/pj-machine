@@ -1,7 +1,7 @@
-var folder = 'introduction_colophon';
+var folder = 'geoff_cox';
 
 var settings = {
-	"architecture" : [['01', 'text'],['02', 'text'],['03', 'text'],['04', 'text'],['pdf', 'pdf']],
+	"architecture" : [['01', 'text'],['02', 'text'],['02a', 'text'],['02b', 'text'],['03', 'text'],['04', 'text'],['pdf', 'pdf']],
 	"folder": folder,
 	"words" :['machine', 'research', 'computer', 'vision', 'network', 'data', 'algorithm', 'learning', 'AEO', 'AMB', 'ANO', 'DSP'],
 
