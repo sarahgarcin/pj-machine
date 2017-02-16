@@ -1,8 +1,0 @@
-1. a text file, containing 
-a) title
-b) README
-c) a 1000+ word text that is arranged as a string of single word lines. We would like this layed out on the page in columns please, as many as necessary, while having the typeface a reasonable-readable size. **If at all possible it would be fantastic to use a monospace font, and then place a mask on the text, one character wide down the centre of each column, thus making every middle-character red. Is this possible?**
-
-2. 3 images: the honda speed reader image "stills.jpg" image should arrive on the first page at some point.  the typeface images are to accompany section  2 of the text: subtitled "Liminal Type".
-
-3. A text file for image captions.

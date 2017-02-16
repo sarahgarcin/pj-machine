@@ -1,7 +1,7 @@
-var folder = 'geoff_cox';
+var folder = 'data';
 
 var settings = {
-	"architecture" : [['01', 'text'],['02', 'text'],['02a', 'text'],['02b', 'text'],['03', 'text'],['04', 'text'],['pdf', 'pdf']],
+	"architecture" : [['01', 'text'], ['02', 'text'], ['03', 'text'],['pdf', 'pdf']],
 	"folder": folder,
 	"words" :['machine', 'research', 'computer', 'vision', 'network', 'data', 'algorithm', 'learning', 'AEO', 'AMB', 'ANO', 'DSP'],
 
@@ -14,7 +14,7 @@ var settings = {
   "textFieldSeparator" : "\n\n----\n\n",
 
   // ZOOM settings
-  "maxZoom" : 4,
+  "maxZoom" : 3,
   "minZoom" : 0.2,
 	"zoomStep" : 0.05, 
 

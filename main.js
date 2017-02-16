@@ -32,6 +32,7 @@ module.exports = function(app, io){
 		socket.on( 'listFiles', function (data){ onListFolders(socket); });
 		
 		socket.on('changeText', onChangeText);
+		socket.on('changeTextPrev', onChangeTextPrev);
 
 		socket.on('zoomIn', onZoomIn);
 		socket.on('zoomOut', onZoomOut);
@@ -91,7 +92,7 @@ module.exports = function(app, io){
 				var folderObj = {
 					path: folder,
 					txt : txt[txt.length-1],
-					index : txt.length,
+					index : 0,
 					zoom : 1,
 					xPos : left,
 					yPos : 1,
@@ -137,14 +138,43 @@ module.exports = function(app, io){
 		var dir = element.path;
 		var arrayOfFiles = readTxtDir(dir);
 
-    var prevIndex = parseInt((element.index)-1);
-    console.log("ON CHANGE TEXT EVENTS");
+		var elIndex =parseInt(element.index)
+    var prevIndex = elIndex + 1;
+    console.log("ON CHANGE TEXT EVENTS", prevIndex);
+
+    if(prevIndex > arrayOfFiles.length - 1){
+    	prevIndex = 0;
+    }
+
+    console.log(prevIndex, element.index, arrayOfFiles.length - 1);
+
+    var newData = {
+    	'text': arrayOfFiles[prevIndex],
+    	'index': prevIndex,
+    	"slugFolderName" : element.slugFolderName
+    }
+
+    updateFolderMeta(newData).then(function( currentDataJSON) {
+    	console.log(currentDataJSON);
+      sendEventWithContent( 'changeTextEvents', currentDataJSON);
+    }, function(error) {
+      console.error("Failed to update a folder! Error: ", error);
+    });
+	}
+
+	function onChangeTextPrev(element){
+		var dir = element.path;
+		var arrayOfFiles = readTxtDir(dir);
+
+		var elIndex =parseInt(element.index)
+    var prevIndex = elIndex - 1;
+    console.log("ON CHANGE TEXT EVENTS", prevIndex);
 
     if(prevIndex < 0){
     	prevIndex = arrayOfFiles.length - 1;
     }
 
-    console.log(prevIndex, element.index);
+    console.log(prevIndex, element.index, arrayOfFiles.length - 1);
 
     var newData = {
     	'text': arrayOfFiles[prevIndex],
@@ -495,14 +525,19 @@ module.exports = function(app, io){
 	  '--local-to-remote-url-access=yes'
 		]).then(function(ph) {
 		  ph.createPage().then(function(page) {
+		  	// 	page.property('clipRect',{
+					//     top:    0,
+					//     left:   1365,
+					//     width:  1365,
+					//     height: 1970
+					// });
 		  	page.open(url)
 		  	.then(function(){
-		  		// page.property('viewportSize', {width: '42cm', height: '34cm'});
+		  		// page.property('viewportSize', {width: 600, height: 	});
 		  		// page.property('paperSize', {format: 'A4', orientation: 'landscape'})
-		  		// page.property('paperSize', {width: '42cm', height: '34cm', orientation: 'landscape'})
-		  		page.property('paperSize', {width: 1660, height: 1300, orientation: 'landscape'})
+		  		page.property('paperSize')
 		  		// page.property('clipRect', {top: 0, left: 1000, width:3000,height:890})
-		  		.then(function() { 
+		  		.then(function() {
 			  		return page.property('content')
 			    	.then(function() {
 				      setTimeout(function(){

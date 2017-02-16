@@ -35,7 +35,6 @@ module.exports = function(app,io,m){
     
     var dataToSend = {
       title: "Machine Research",
-      folder: settings.folder,
       // longIndex: longTextData.index,
       // longFile: longTextData.file,
       // shortIndex: shortTextData.index,

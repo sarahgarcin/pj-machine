@@ -1,3 +1,0 @@
-<div class=background-image>
-<img src=jara_rocha_2/01/image_jara_low1.png>
-</div>

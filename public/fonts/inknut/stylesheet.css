@@ -4,34 +4,7 @@
     font-family: 'inknut';
     src: url('InknutAntiqua-SemiBold.woff2') format('woff2'),
          url('InknutAntiqua-SemiBold.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'inknut';
-    src: url('InknutAntiqua-Bold.woff2') format('woff2'),
-         url('InknutAntiqua-Bold.woff') format('woff');
     font-weight: bold;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'inknut';
-    src: url('InknutAntiqua-Regular.woff2') format('woff2'),
-         url('InknutAntiqua-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'inknut';
-    src: url('InknutAntiqua-Light.woff2') format('woff2'),
-         url('InknutAntiqua-Light.woff') format('woff');
-    font-weight: 100;
     font-style: normal;
 
 }

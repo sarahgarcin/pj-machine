@@ -8,6 +8,8 @@ var countRegex = 0;
 var grid = false;
 var pdfCount = false;
 
+var zoom = 500; 
+
 
 /* sockets */
 function onSocketConnect() {
@@ -151,11 +153,12 @@ function init(){
 		zoomEvents(data, code);
 		moveEvents(data, code);
 		wordSpacing(data, code);
-		changeFontFamily(data, code);
+		// changeFontFamily(data, code);
 		changeBlockSize(data, code);
 		generatePDF(data, code);
 
 		gridDisplayer(code);
+		zoomVideo(code);
 		
 		e.preventDefault(); // prevent the default action (scroll / move caret)
 	});
@@ -163,6 +166,9 @@ function init(){
 	$('.gridButton').on('click', function(){
 		gridDisplayer(60);
 	});
+
+	// drag and resize video 
+	$( "#video" ).draggable();
 	
 }
 // C H A N G E     T E X T     C O N T E N T
@@ -172,13 +178,28 @@ function changeText(data, code){
 	var foldersdata = JSON.parse(retrievedObject);
 
 	// press "o" to go to next part to change
-	var nextKey = 111; 
+	var nextKey = 112;
+	var prevKey = 111; 
+
 	// press "p" to go to next part to change
-	var submitKey = 112;
+	var submitKey = 101;
+	setTimeout(function(){
+		var indexTest = $(".page-wrapper").find("[data-folder='" + data.slugFolderName + "']").attr('data-index');
+		console.log(data.slugFolderName);
+		console.log(indexTest);
+		data.index = indexTest;
+
+	
+
 
 	if(code == nextKey){
 		socket.emit('changeText', data);
 	}
+
+	if(code == prevKey){
+		socket.emit('changeTextPrev', data);
+	}
+	}, 100);
 
 	if(code == submitKey){
 		if(partCount < foldersdata.length-1){
@@ -422,6 +443,32 @@ function reset(){
     }
     down[e.keyCode] = false;
 	});
+}
+
+function zoomVideo(code){
+	//press + zoom in video
+	var videoKeyIn = 61;
+	//press - zoom out video
+	var videoKeyOut = 45;
+
+	if(code == videoKeyIn){
+		zoom += 50;
+		$("#video").css({
+			"width": zoom +"px"
+
+		});
+
+	}
+
+	if(code == videoKeyOut){
+		zoom -= 50;
+		$("#video").css({
+			"width": zoom +"px"
+
+		});
+
+	}
+	
 }
 
 

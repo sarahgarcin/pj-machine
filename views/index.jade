@@ -17,14 +17,15 @@ html
             span.zoom-value 100%
             span.minusButton - 
           div.gridButton grid
+
+      div.video-view
+        //- display camera
+        video(id="video" autoplay)
+          
       div#page-content.page
         div.middle
+
         div(class="page-wrapper" data-part="0")
-          div.header.left
-            h4 #{folder}
-          div.header.right
-            h4 #{folder}
-          //- div.trait
 
           div.grid.row
             - for (var i = 0; i < 30; ++i) {
@@ -38,6 +39,7 @@ html
     script(src='/bower_components/jquery/dist/jquery.min.js')
     script(src='/bower_components/foundation/js/foundation.min.js')
     script(src='/bower_components/showdown/dist/showdown.min.js')
+    script(src='/bower_components/jquery-ui/jquery-ui.min.js')
     script(src='/js/jquery.textfill.js')
     script(src='/settings.js')
     script(src='/js/plugins.js')

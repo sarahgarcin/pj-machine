@@ -1,10 +1,9 @@
 {
 	"page" : {
 		"scale" : "1",
-		"widthPage" : "42cm",
-		"heightPage" : "34cm",
-		"margintop" : "2cm",
-		"marginbottom" : "3cm",
+		"widthPage" : "29.7cm",
+		"heightPage" : "21cm",
+		"margintop" : "0.7cm",
 		"marginleft" : "0cm", 
 		"leftPos" : "20cm"
 	}

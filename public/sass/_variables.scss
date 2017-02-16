@@ -8,23 +8,20 @@ $widthPage: $page-widthPage;
 $heightPage: $page-heightPage;
 $margintop: $page-margintop;
 $marginleft: $page-marginleft;
-$marginbottom: $page-marginbottom;
 
 $scale : $page-scale;
 
 
 // FONT SIZE
-$h1Size: 16pt;
-$h2Size: 16pt;
-$h3Size: 12pt;
-$h6Size: 80pt;
-$textSize: 7pt;
-
-$lineH: 1.6;
+$h1Size: 30pt;
+$h2Size: 25pt;
+$h3Size: 18pt;
+$h6Size: 16pt;
+$textSize: 15pt;
 
 // FONT FAMILY
 $titleFont : "inknut", sans-serif;
-$textFont: "inknut", sans-serif;
+$textFont: "vollkorn", sans-serif;
 
 @mixin titleStyle{
 	font-size: $h1Size;
@@ -35,7 +32,7 @@ $textFont: "inknut", sans-serif;
 @mixin textStyle{
 	font-size: $textSize;
 	font-family: $textFont;
-	font-weight: 100;
+	font-weight: normal;
 }
 
 

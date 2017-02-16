@@ -1,0 +1,7 @@
+**Blue buttons** -> change the content     
+**Red buttons** -> Zoom In / Zoom out   
+**Left white button** -> Change the block width  
+**Yellow buttons** -> Move the block  
+**Dark buttons** -> increase / decrease word spacing  
+**Right white button** -> Select the block you want to act on   
+**Green button** -> Export your page in pdf  
