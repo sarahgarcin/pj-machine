@@ -1,7 +1,7 @@
 # PJ Machine
 ==========
 The PJ Machine (Publishing Jockey Machine) is a box with arcade buttons to control a node js web interface for live publishing. 
-![PJ Machine]()
+![PJ Machine](https://github.com/sarahgarcin/pj-machine/blob/master/content/data/02/01.jpg)
 
 ## Installation
 
