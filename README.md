@@ -44,21 +44,21 @@ Go to http://localhost:1337 in your favorite browser
 Work in Progress.
 
 ### Buttons
-Normally you should control the PJ Machine programm with the PJ Machine Box. 
-You can also control it with your keyboard.
-e -> select the block you want to act on
-o -> Previous content 
-p -> Next content
-a -> Move Left
-s -> Move Up
-q -> Move Right
-w -> Move Down
-u -> Zoom In
-Space -> Zoom Out
-i -> Increase the width of the block
-y -> Increase word-spacing
-r -> Descrease word-spacing
-t -> Export the page to pdf
+Normally you should control the PJ Machine programm with the PJ Machine Box.   
+You can also control it with your keyboard.  
+e -> select the block you want to act on  
+o -> Previous content   
+p -> Next content  
+a -> Move Left  
+s -> Move Up  
+q -> Move Right  
+w -> Move Down  
+u -> Zoom In   
+Space -> Zoom Out  
+i -> Increase the width of the block  
+y -> Increase word-spacing  
+r -> Descrease word-spacing  
+t -> Export the page to pdf  
 
 ## License 
  GPL v.3 
