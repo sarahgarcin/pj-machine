@@ -58,6 +58,7 @@ Space -> Zoom Out
 i -> Increase the width of the block
 y -> Increase word-spacing
 r -> Descrease word-spacing
+t -> Export the page to pdf
 
 ## License 
  GPL v.3 
